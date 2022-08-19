@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.3.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDtMw5ckfiRxHyawblIoQp3zTTZsG72xUVVMzpIUkpBAcodQ3VdHhte9o3Lb2dALg36HreMNDTqNedqYoKxmdrGBjX+IbeTi6IyNq/GdaF5NNlNz21NN1uYtXNgYmTUS6MFER9ZsNGll/Ru8k89FQIL2Hv018yTonrcXuvN5+fo2ChZSAfe+h8CI6w/vzh1D/B++KM/ust6wxUk0YYdEXkgLVN8wn/CoLvr2Zy/l+QYPagC50QYTO+n2DD3EizWX6kARldy/O8PK/dJvYfF+xbfkuvF+vpVMcBdxtqFWRee+29OLtpTAlcG+O0ZOUqZMTfszEFroe+RoVuOAYoBIFoNFqpAL9Irfu+Z3C3V3Ix9D6uq9M1CpGNBKxJ/fwkpb3OGSjuKDnfdHlZAjpzPvw86PiuCmujjhTQpgH0hK2AjOBGJTJJxIsvkPzCvfDTB5UN34d8kyNPT12Mb0vJP82MNGqhCjHY8NqBhqORjCXRtxgTBxSDPKlQ985gZsBkaAVtq6/U4kfBNieuRRRPR5tuNzu0zho7pG41sw2WUN7Rod+3nqnRil8W2tIGQlbvfyfr4smdDFHTl8ttWRwh2m94+WxE9qyGTjUkIT7sx2E2GPI6WIXfyBAPNW6lno930x6d6mSNGBBvRsinm8DH7j/xRvNA/31oltU/oaZg1YUtfmQ== Guillaume@DESKTOP-VR1GP1Q"
+        ]
+      }
+    ]
+  }
+}
