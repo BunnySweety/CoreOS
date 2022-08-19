@@ -7,7 +7,7 @@
       {
         "name": "core",
         "sshAuthorizedKeys": [
-          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC+hwPJDW6K7xZmwJdFF4udhGxl3RRhfH35CBx9NjCgdahg96qsMNmDlGDOWiwSwHeNmcAqakgc2iN9UkYwTLm/aktYATqxLBX6cC0NyOICf8ki93piS4K1xMUe2b50hJ6vsLC3ufWqXMQvr8iPCW2IgM4lj7+o6DdUQf1hoPYxpmmF6N02Lhh/1UDZp1fz9xf4GRfVSyhS6Fz09xnbEA78ZtvKp03p1slhErVDVJP9iS+xw1NJ2oDcFhG5GgHRAxWgKa11Ld30ONyt3f6kgtXS1zVvAbdf7k8ODYx1Scv6hliIWMjq2Tq5/YKJoDVSPQXcC+UM4FlJmLxFBVs4aYdoWU8KLe6bNytpbu9rjev6jSLaoWErhnXGet9AL1l5fGJJcXoFTuWLGwxfOczgWIwdkx2u0vcHePwL5PkWI/9cY1UgEnRFmmXswNJfXJ+OLFTGL1l/nlx+4GUxW+O7BdmwiZA7S5UtlAsZJcWP0Dxx9VcsG568oKJVk6Ez8SOxetk= ryuk3n@DESKTOP-P6A27AF"
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAeRNNdjYuicKdz9qoxUAQbIi44pqbQa10IlOO8LmtqL"
         ]
       }
     ]
